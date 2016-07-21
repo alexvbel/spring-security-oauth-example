@@ -1,0 +1,1 @@
+insert into account(account_name, password) VALUES ('user', 'secret');
